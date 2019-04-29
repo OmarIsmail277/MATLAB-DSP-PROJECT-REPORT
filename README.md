@@ -1,8 +1,8 @@
 # MATLAB-DSP-PROJECT-REPORT
-A DSP Final project that was assigned to use by College
+A DSP Final project that was assigned to us by College.
 It contains the following topics:
 *************************************
-1) Sampling and periodicity of sinusoidal signals
+1)Sampling and periodicity of sinusoidal signals
 
 2)Time-Domain Analysis of LTI Systems
 
